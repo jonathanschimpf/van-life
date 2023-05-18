@@ -6,7 +6,7 @@ import About from "./pages/About"
 import Vans from "./pages/Vans"
 
 
-// mirage.js // backend guy stuffs 
+// mirage.js // backend guy stuff//
 import "./server"
 
 
