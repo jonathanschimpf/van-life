@@ -7,7 +7,7 @@ import Vans from "./pages/Vans"
 
 
 // mirage.js // backend guy stuff//
-import "./server"
+// import "./server"
 
 
 function App() {
