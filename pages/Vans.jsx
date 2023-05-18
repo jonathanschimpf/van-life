@@ -1,6 +1,6 @@
 import React from "react"
 
-// NEW VANS LOGIC
+// NEW VANS LOGIC //
 
 export default function Vans() {
     const [vans, setVans] = React.useState([])
